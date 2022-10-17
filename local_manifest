@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="android/device/google/crosshatch" name="jrjmt/android_device_google_crosshatch.git" remote="github" revision="evo-13.0" />
+ <project path="device/google/crosshatch" name="jrjmt/device_google_crosshatch.git" remote="github" revision="evo-13.0" />
  <project path="vendor/google/bluecross" name="jrjmt/vendor_google_bluecross.git" remote="github" revision="evo-13.0" />
  <project path="kernel/google/bluecross" name="jrjmt/kernel_google_bluecross.git" remote="github" revision="13" />
  
